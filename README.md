@@ -4,17 +4,17 @@ My first GitHub project
 
 
 
-\## What I Learned
+## What I Learned
 
 
 
-\- Installed Git on Windows.
+- Installed Git on Windows.
 
-\- Created a GitHub repository.
+- Created a GitHub repository.
 
-\- Learned how to clone a repository.
+- Learned how to clone a repository.
 
-\- Learned how to create and switch branches.
+- Learned how to create and switch branches.
 
 
 
